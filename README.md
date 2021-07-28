@@ -6,3 +6,6 @@ with modern code
 
 * [backend](backend/README.md)
 * [frontend](frontend/README.md)
+
+![screenshot](tatar.png)
+
