@@ -12,7 +12,7 @@ git clone https://github.com/bingalls/tatar.git
 cd tatar/backend
 npm install     # yarn also works
 cp .env.example .env
-node ace key:generate
+node ace generate:key
 npm run dev
 ```
 
